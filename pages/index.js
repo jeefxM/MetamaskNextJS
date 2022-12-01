@@ -180,7 +180,7 @@ export default function Home() {
           </p>
 
           <a>
-            <img src="noun 205.png" className="max-w-sm"></img>
+            <img src="noun-205.png" className="max-w-sm"></img>
           </a>
 
           <button
